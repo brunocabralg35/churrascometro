@@ -100,7 +100,7 @@ img {
   }
 
   body {
-    overflow: hidden;
+    overflow: visible;
     height: 100vh;
   }
 
@@ -148,7 +148,7 @@ img {
   }
 
   body {
-    overflow: hidden;
+    overflow: visible;
     height: 100vh;
   }
 
